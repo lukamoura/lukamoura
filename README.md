@@ -5,8 +5,9 @@
 - 😄 Pronomes: ela/dela
 - 😻 Mãe de pet
 
+<!--
 ![Luka Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukamoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukamoura&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukamoura&show_icons=true&theme=dark)-->
 
 
 <div style="display: inline_block"><br>
