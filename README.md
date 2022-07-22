@@ -1,10 +1,9 @@
 ### Oiee eu sou a Luka Moura, dev front-end | Javascript | Angular!
 
-- 🔭 Hoje trabalho como front-end Angular
+- 💻 Hoje trabalho como front-end Angular na Extreme Digital
 - 🌱 Estudando Typescript, boas práticas do Angular e TDD
 - 😄 Pronomes: ela/dela
 - 😻 Mãe de pet
-- 💻 Atualmente na Extreme Digital
 
 <div align="center">
   <a href="https://github.com/lukamoura">
