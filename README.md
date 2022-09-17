@@ -1,4 +1,4 @@
-### Oiee eu sou a Luka Moura, dev front-end | Javascript | Angular!
+### Oiee eu sou a Luka Moura, dev front-end | Javascript | Angular | React
 
 - 💻 Hoje trabalho como front-end Angular na Extreme Digital
 - 🌱 Estudando Typescript, boas práticas do Angular e TDD
